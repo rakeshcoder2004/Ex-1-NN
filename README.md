@@ -1,6 +1,6 @@
 # EX-01 Introduction to Kaggle and Data preprocessing
 ### AIM:
-To perform Data preprocessing in a data set downloaded from Kaggle. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:**
+To perform Data preprocessing in a data set downloaded from Kaggle. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ### EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
@@ -15,8 +15,8 @@ For achieving better results from the applied model in Machine Learning projects
 ### ALGORITHM:
 STEP 1:Importing the libraries.<BR>
 STEP 2:Importing the dataset.<BR>
-STEP 3:Taking care of missing data.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **Developed By: ROHIT JAIN D**<br>
-STEP 4:Encoding categorical data.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Register No: 212222230120**<br>
+STEP 3:Taking care of missing data.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **Developed By: Rakesh V**<br>
+STEP 4:Encoding categorical data.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Register No: 212222110036**<br>
 STEP 5:Normalizing the data.<BR>
 STEP 6:Splitting the data into test and train.<BR>
 ###  PROGRAM:
