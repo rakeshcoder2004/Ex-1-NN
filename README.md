@@ -1,3 +1,5 @@
+## Name : Rakesh V
+## Reg no : 212222110036
 # EX-01 Introduction to Kaggle and Data preprocessing
 ### AIM:
 To perform Data preprocessing in a data set downloaded from Kaggle. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
